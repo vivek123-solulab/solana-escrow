@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/ishamandviya/Documents/Solulab/solana/solana_escrow/program/target/debug/build/typenum-e8543d94b7c83e47/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/ishamandviya/Documents/Solulab/solana/solana_escrow/program/target/debug/build/typenum-e8543d94b7c83e47/out/op.rs
